@@ -1,7 +1,7 @@
-### Soy una persona a la que le importan las personas y a la que impulsa una voluntad de crecer personal y profesionalmente. Tengo una gran pasión por la analítica de los datos y así poder comprender y transformar la realidad.
+## Soy una persona a la que le importan las personas y a la que impulsa una voluntad de crecer personal y profesionalmente. Tengo una gran pasión por la analítica de los datos y así poder comprender y transformar la realidad.
 
 ---
-## Proyectos personales relacionados con el mundo del Data Science, el Machine Learning y el NLP. 
+### Proyectos personales relacionados con el mundo del Data Science, realizados concretamente con Machine Learning y NLP. 
 
 ---
 **Topic Modeling & Sentiment Analysing**
@@ -70,7 +70,7 @@ Hate speech detection is the automated task of determining whether a piece of te
 [View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 
 
-## Proyectos del Máster
+### Proyectos del Máster
 
 ---
 - [Clasificación de tweets](http://example.com/)
