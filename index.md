@@ -6,7 +6,10 @@
 ---
 **Topic Modeling & Sentiment Analysing**
 
-El objetivo de este proyecto recae en encontrar información útil sobre el sector hotelero de Londres. Podemos observar como la intención del código va en relación a extraer información sobre el tipo de sentimiento que tiene cada comentario y los temas más recurrentes que aparecen. En las conclusiones podemos ver si el porcentaje de reviews es más positivo o negativo y los temas más importantes para el target.
+El objetivo de este proyecto recae en encontrar información útil sobre el sector hotelero de Londres mediante el análisis de reviews. 
+<br><br>
+Podemos observar como la intención del código va en relación a extraer información sobre el tipo de sentimiento que tiene cada comentario y los temas más recurrentes que aparecen. En las conclusiones podemos ver si el porcentaje de reviews es más positivo o negativo y los temas más importantes para el target.
+
 Gracias a este estudio podríamos entender mejor al público objetivo y ver donde tienen que recaer las acciones de inversión y promoción para aumentar las ventas y la experiencia del usuario. 
 
 <img src="images/Topic Modeling.png?raw=true"/>
