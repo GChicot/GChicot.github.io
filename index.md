@@ -7,14 +7,14 @@
 **Topic Modeling & Sentiment Analysing**
 
 El objetivo de este proyecto recae en encontrar información útil sobre el sector hotelero de Londres mediante el análisis de reviews. 
-<br><br>
+
 Podemos observar como la intención del código va en relación a extraer información sobre el tipo de sentimiento que tiene cada comentario y los temas más recurrentes que aparecen. En las conclusiones podemos ver si el porcentaje de reviews es más positivo o negativo y los temas más importantes para el target.
 
 Gracias a este estudio podríamos entender mejor al público objetivo y ver donde tienen que recaer las acciones de inversión y promoción para aumentar las ventas y la experiencia del usuario. 
 
 <img src="images/Topic Modeling.png?raw=true"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)  [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1PMbAi6H3PjB32OEMEicbjbPs5aDDc8hF#scrollTo=-4TmMobACfyM)
 
