@@ -81,8 +81,9 @@ Podemos encontrar el análisis de una serie temporal con RStudio. En este docume
 
 Este trabajo constaba de dos partes: un trabajo destinado al PCA y otro al Clustering. En los dos documentos que puedes encontrar en el enlace inferior puedes ver lo aprendido y ejecutado para poder superar esta asignatura. 
 
-[Ver PDF - 1](https://drive.google.com/file/d/1hdAVqFKWLQCYsDfmnjMpr9CjACy3l4kz/view?usp=share_link)
-[Ver PDF - 2](https://drive.google.com/file/d/1eahWM2cS0kSEzGFCQbR0F169UI8UCfSF/view?usp=share_link)
+[Ver PDF - 1](https://drive.google.com/file/d/1eahWM2cS0kSEzGFCQbR0F169UI8UCfSF/view?usp=share_link)
+<br>
+[Ver PDF - 2](https://drive.google.com/file/d/1hdAVqFKWLQCYsDfmnjMpr9CjACy3l4kz/view?usp=share_link)
 
 - **Clasificación de tweets**
 
