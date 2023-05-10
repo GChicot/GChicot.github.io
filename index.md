@@ -36,7 +36,7 @@ Me encontré con un problema multiclase desbalanceado donde el objetivo era pred
 
 En esta competición de Kaggle me he encontrado un reto nivel iniciación donde la intención es predecir los pasajeros que han sido transportados. 
 
-Podemos encontrar un conjunto de elementos relacionados con la realizacion del preproceso, feature engineering, transformación de variables categóricas a numéricas, outliers y el modelo con su hyperparametrización.
+Podemos encontrar un conjunto de elementos relacionados con la realización del preproceso, feature engineering, transformación de variables categóricas a numéricas, outliers y el modelo con su hyper-parametrización.
 
 Mi resultado final es de 0.805 y podemos ver como el tercero en la competición tiene 0.824, el cuarto 0.820 y el quinto tiene 0.819. 
 
@@ -47,7 +47,7 @@ Mi resultado final es de 0.805 y podemos ver como el tercero en la competición 
 [Ver PDF](https://drive.google.com/file/d/1DDO7ry_O96vai1Rug2SUnBM6ll9k9g3b/view?usp=share_link)
 
 ---
-**Predicción de fuga de una compañia telefónica** 
+**Predicción de fuga de una compañía telefónica** 
 
 En este proyecto la intención fue predecir la fuga de los clientes antes de que ocurra con un modelo que no sea una caja negra ya que es de vital importancia saber los motivos por los cuales este hecho pasa. 
 
@@ -63,7 +63,7 @@ Podemos encontrar todos los pasos a seguir para realizar una regresión logísti
 ---
 **Análisis y predicción de una Serie Temporal** 
 
-Podemos encontrar el análisis de una serie temporal con RStudio. En este documento se ha tratado la búsqueda del mejor modelo de sauvizada exponencial con sus gráficas observadas y las predicciones, la representación de series y correlogramas, el cálculo de las predicciones y sus intervalos de confianza...
+Podemos encontrar el análisis de una serie temporal con RStudio. En este documento se ha tratado la búsqueda del mejor modelo de suavizada exponencial con sus gráficas observadas y sus predicciones, la representación de series y correlogramas y el cálculo de las predicciones y sus intervalos de confianza.
 
 <img src="images/rstudio.png?raw=true"/>
 
@@ -79,7 +79,7 @@ Podemos encontrar el análisis de una serie temporal con RStudio. En este docume
 
 - **PCA & Clustering**
 
-Este trabajo constaba de dos partes: un trabajo destinado al PCA y otro al Clustering. En los dos documentos que puedes encontrar en el enlace inferior puedes ver lo aprendido y ejecutado para poder superar esta asignatura. 
+Este trabajo consta de dos partes: un trabajo destinado al PCA y otro al Clustering. En los dos enlaces siguientes podemos encontrar lo aprendido y ejecutado para poder superar esta asignatura.
 
 [Ver PDF - 1](https://drive.google.com/file/d/1eahWM2cS0kSEzGFCQbR0F169UI8UCfSF/view?usp=share_link)
 <br><br>
@@ -87,18 +87,18 @@ Este trabajo constaba de dos partes: un trabajo destinado al PCA y otro al Clust
 
 - **Clasificación de tweets**
 
-En Text Mining aprendimos a trabajar con distintas librerias como nltk, spacy, TextBlob... La intención era clasificar correctamente los tweets que trataban sobre profesiones. Podemos encontrar un texto en español y con emojis donde se ha realizado un pre-procesado, la vectorización y un modelo de clasificación. 
+En Text Mining aprendimos a trabajar con distintas librerías como nltk, spacy y TextBlob entre otras. La intención era clasificar correctamente los tweets que trataban sobre profesiones. Podemos encontrar un texto en español y con emojis donde se ha realizado un pre-procesado, la vectorización y un modelo de clasificación. 
 
 [Ver PDF](https://drive.google.com/file/d/1OmzrKeXnwxTC_8TEl5-UJ4s7lDS_aSnt/view?usp=share_link)
 
 - **DeepLearning**
 
-En este trabajo podemos ver como realizamos una introducción al DeepLearning con el dataset boston_housing. A lo largo de este módulo se trabajo con el dataset mnist para crear un modelo de predicción de número correcto. 
+En este trabajo podemos ver como realizamos una introducción al DeepLearning con el dataset boston_housing. A lo largo de este módulo se trabajó con el dataset mnist para crear un modelo de predicción de número correcto. 
 
 [Ver PDF](https://drive.google.com/file/d/1MRMrzwfuLpubWNRTa3wyamLxbGdHfEc8/view?usp=share_link)
 
 - **Hadoop/Spark**
 
-En Hadoop/Spark configuramos un bu en Google Cloud Storage para después poder procesar un dataset con Spark. Consta de un análisis exploratorio y sacar conclusiones del dataset.
+En Hadoop/Spark configuramos un bucket en Google Cloud Storage para después poder procesar un dataset con Spark. Consta de un análisis exploratorio y sacar conclusiones del dataset.
 
 [Ver PDF](https://drive.google.com/file/d/1jSpOZEEIECas1XwSgFH8ekDy-URSfW7F/view?usp=share_link)
