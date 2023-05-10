@@ -1,6 +1,3 @@
-**Soy una persona a la que le importan las personas y a la que impulsa una voluntad de crecer personal y profesionalmente. Tengo una gran pasión por la analítica de los datos y así poder comprender y transformar la realidad.**
-
----
 ## Proyectos personales relacionados con el mundo del Data Science, concretamente con el Machine Learning y el NLP
 
 ---
