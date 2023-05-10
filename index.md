@@ -84,7 +84,7 @@ Este trabajo consta de dos partes: un trabajo destinado al PCA y otro al Cluster
 
 - **Clasificación de tweets**
 
-En Text Mining aprendimos a trabajar con distintas librerías como nltk, spacy y TextBlob entre otras. La intención era clasificar correctamente los tweets que trataban sobre profesiones. Podemos encontrar un texto en español y con emojis donde se ha realizado un pre-procesado, la vectorización y un modelo de clasificación. 
+En Text Mining aprendimos a trabajar con distintas librerías como nltk, spacy, TextBlob, entre otras. La intención era clasificar correctamente los tweets que trataban sobre profesiones. Podemos encontrar un texto en español y con emojis donde se ha realizado un pre-procesado, la vectorización y un modelo de clasificación. 
 
 [Ver PDF](https://drive.google.com/file/d/1OmzrKeXnwxTC_8TEl5-UJ4s7lDS_aSnt/view?usp=share_link)
 
@@ -96,6 +96,6 @@ En este trabajo podemos ver como realizamos una introducción al DeepLearning co
 
 - **Hadoop/Spark**
 
-En Hadoop/Spark configuramos un bucket en Google Cloud Storage para después poder procesar un dataset con Spark. Consta de un análisis exploratorio y sacar conclusiones del dataset.
+En Hadoop/Spark configuramos un bucket en Google Cloud Storage para después poder procesar un dataset con Spark. Consta de un análisis exploratorio y saca conclusiones del dataset.
 
 [Ver PDF](https://drive.google.com/file/d/1jSpOZEEIECas1XwSgFH8ekDy-URSfW7F/view?usp=share_link)
