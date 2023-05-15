@@ -1,7 +1,7 @@
 ## Proyectos personales relacionados con el mundo del Data Science, concretamente con el Machine Learning y el NLP
 
 ---
-**Topic Modeling & Sentiment Analysing**
+**Topic Modeling & Sentiment Analysis**
 
 El objetivo de este proyecto recae en encontrar información útil sobre el sector hotelero de Londres mediante el análisis de reviews. 
 
